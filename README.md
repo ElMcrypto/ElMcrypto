@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![eelmoham's 42 stats](https://badge.mediaplus.ma/kettlebells/eelmoham)](https://github.com/oakoudad/badge42)
+[![eelmoham's 42 stats](https://badge.mediaplus.ma/greenbinary/eelmoham)](https://github.com/oakoudad/badge42)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElMcrypto&theme=radical&show_icons=true)
 
